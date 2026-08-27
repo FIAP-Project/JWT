@@ -3,6 +3,12 @@
 API simples em **FastAPI** com autenticação via **JWT** e autorização baseada em
 perfil de usuário (`USER` e `ADMIN`). Projeto para atividade da faculdade.
 
+## Integrantes
+
+Felipe Cerboncini Cordeiro RM554909
+Milena Codinhoto da Silva RM554682
+Pedro Henrique Martins Alves dos Santos RM558107
+
 ## Requisitos
 
 - Python 3.12+
